@@ -1,2 +1,2 @@
 # programmers-coding-test
-프로그래머스 코딩테스트 답안지
+프로그래머스 코딩테스트 풀이
